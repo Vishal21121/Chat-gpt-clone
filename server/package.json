@@ -1,10 +1,10 @@
 {
-  "name": "imagegenerator",
+  "name": "chat-gpt",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon server.js"
   },
   "keywords": [],
   "author": "",
